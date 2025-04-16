@@ -1,0 +1,98 @@
+2025-04-16 10:57:03,114 - INFO - Internet connection check successful
+2025-04-16 10:57:03,114 - INFO - Starting SMS Bomber
+2025-04-16 10:57:15,771 - INFO - Starting bombing with parameters - Target: +919065790822, Count: 20, Threads: 5, Delay: 2.0s
+2025-04-16 10:57:18,436 - INFO - Bombing status - Target: +919065790822, Sent: 1, Success: 0, Failed: 1
+2025-04-16 10:57:18,870 - INFO - Bombing status - Target: +919065790822, Sent: 2, Success: 0, Failed: 2
+2025-04-16 10:57:20,470 - INFO - Bombing status - Target: +919065790822, Sent: 3, Success: 0, Failed: 3
+2025-04-16 10:57:22,198 - INFO - Bombing status - Target: +919065790822, Sent: 4, Success: 0, Failed: 4
+2025-04-16 10:57:24,354 - INFO - Bombing status - Target: +919065790822, Sent: 5, Success: 0, Failed: 5
+2025-04-16 10:57:25,594 - INFO - Bombing status - Target: +919065790822, Sent: 6, Success: 0, Failed: 6
+2025-04-16 10:57:25,887 - INFO - Bombing status - Target: +919065790822, Sent: 7, Success: 1, Failed: 6
+2025-04-16 10:57:26,457 - INFO - Bombing status - Target: +919065790822, Sent: 8, Success: 1, Failed: 7
+2025-04-16 10:57:28,360 - INFO - Bombing status - Target: +919065790822, Sent: 9, Success: 1, Failed: 8
+2025-04-16 10:57:29,015 - INFO - Bombing status - Target: +919065790822, Sent: 10, Success: 1, Failed: 9
+2025-04-16 10:57:30,241 - INFO - Bombing status - Target: +919065790822, Sent: 11, Success: 1, Failed: 10
+2025-04-16 10:57:31,297 - INFO - Bombing status - Target: +919065790822, Sent: 12, Success: 1, Failed: 11
+2025-04-16 10:57:31,838 - INFO - Bombing status - Target: +919065790822, Sent: 13, Success: 2, Failed: 11
+2025-04-16 10:57:31,973 - INFO - Bombing status - Target: +919065790822, Sent: 14, Success: 3, Failed: 11
+2025-04-16 10:57:33,461 - INFO - Bombing status - Target: +919065790822, Sent: 15, Success: 3, Failed: 12
+2025-04-16 10:57:33,966 - INFO - Bombing status - Target: +919065790822, Sent: 16, Success: 3, Failed: 13
+2025-04-16 10:57:36,186 - INFO - Bombing status - Target: +919065790822, Sent: 17, Success: 3, Failed: 14
+2025-04-16 10:57:36,329 - INFO - Bombing status - Target: +919065790822, Sent: 18, Success: 4, Failed: 14
+2025-04-16 10:57:37,696 - INFO - Bombing status - Target: +919065790822, Sent: 19, Success: 4, Failed: 15
+2025-04-16 10:57:38,339 - INFO - Bombing status - Target: +919065790822, Sent: 20, Success: 4, Failed: 16
+2025-04-16 10:57:38,341 - INFO - Bombing completed in 22.57 seconds
+2025-04-16 11:02:33,487 - INFO - Internet connection check successful
+2025-04-16 11:02:33,488 - INFO - Starting SMS Bomber
+2025-04-16 11:02:52,451 - INFO - Starting bombing with parameters - Target: +919065790822, Count: 10, Threads: 5, Delay: 2.0s
+2025-04-16 11:02:55,270 - INFO - Bombing status - Target: +919065790822, Sent: 1, Success: 0, Failed: 1
+2025-04-16 11:02:55,909 - INFO - Bombing status - Target: +919065790822, Sent: 2, Success: 0, Failed: 2
+2025-04-16 11:02:57,725 - INFO - Bombing status - Target: +919065790822, Sent: 3, Success: 0, Failed: 3
+2025-04-16 11:02:59,218 - INFO - Bombing status - Target: +919065790822, Sent: 4, Success: 0, Failed: 4
+2025-04-16 11:03:01,561 - INFO - Bombing status - Target: +919065790822, Sent: 5, Success: 0, Failed: 5
+2025-04-16 11:03:03,242 - INFO - Bombing status - Target: +919065790822, Sent: 6, Success: 0, Failed: 6
+2025-04-16 11:03:03,540 - INFO - Bombing status - Target: +919065790822, Sent: 7, Success: 1, Failed: 6
+2025-04-16 11:03:04,017 - INFO - Bombing status - Target: +919065790822, Sent: 8, Success: 1, Failed: 7
+2025-04-16 11:03:05,884 - INFO - Bombing status - Target: +919065790822, Sent: 9, Success: 1, Failed: 8
+2025-04-16 11:03:06,553 - INFO - Bombing status - Target: +919065790822, Sent: 10, Success: 1, Failed: 9
+2025-04-16 11:03:06,554 - INFO - Bombing completed in 14.10 seconds
+2025-04-16 11:03:37,543 - INFO - Internet connection check successful
+2025-04-16 11:03:37,544 - INFO - Starting Call Bomber
+2025-04-16 11:03:49,648 - INFO - Starting bombing with parameters - Target: +919065790822, Count: 12, Threads: 5, Delay: 10.0s
+2025-04-16 11:04:00,487 - INFO - Bombing status - Target: +919065790822, Sent: 1, Success: 0, Failed: 1
+2025-04-16 11:04:01,672 - INFO - Bombing status - Target: +919065790822, Sent: 2, Success: 0, Failed: 2
+2025-04-16 11:04:02,070 - INFO - Bombing status - Target: +919065790822, Sent: 3, Success: 0, Failed: 3
+2025-04-16 11:04:02,312 - INFO - Bombing status - Target: +919065790822, Sent: 4, Success: 0, Failed: 4
+2025-04-16 11:04:02,669 - INFO - Bombing status - Target: +919065790822, Sent: 5, Success: 0, Failed: 5
+2025-04-16 11:04:10,484 - INFO - Bombing status - Target: +919065790822, Sent: 6, Success: 0, Failed: 6
+2025-04-16 11:04:12,669 - ERROR - Error during bombing: release unlocked lock
+2025-04-16 11:04:12,673 - ERROR - Error during bombing: release unlocked lock
+2025-04-16 11:04:12,677 - ERROR - Error during bombing: release unlocked lock
+2025-04-16 11:04:12,680 - ERROR - Error during bombing: release unlocked lock
+2025-04-16 11:04:12,683 - ERROR - Error during bombing: release unlocked lock
+2025-04-16 11:04:12,687 - ERROR - Error during bombing: release unlocked lock
+2025-04-16 11:04:12,687 - INFO - Bombing completed in 23.04 seconds
+2025-04-16 11:04:45,537 - INFO - Internet connection check successful
+2025-04-16 11:04:45,537 - INFO - Starting WhatsApp Bomber
+2025-04-16 11:04:58,223 - INFO - Starting bombing with parameters - Target: +919065790822, Count: 10, Threads: 5, Delay: 2.0s
+2025-04-16 11:04:58,224 - ERROR - Program error: 'list' object has no attribute 'get'
+2025-04-16 11:05:54,106 - INFO - Internet connection check successful
+2025-04-16 11:05:54,107 - INFO - Starting SMS Bomber
+2025-04-16 11:06:14,640 - INFO - Starting bombing with parameters - Target: +919065790822, Count: 5, Threads: 5, Delay: 1.0s
+2025-04-16 11:06:16,468 - INFO - Bombing status - Target: +919065790822, Sent: 1, Success: 0, Failed: 1
+2025-04-16 11:06:17,171 - INFO - Bombing status - Target: +919065790822, Sent: 2, Success: 0, Failed: 2
+2025-04-16 11:06:19,481 - INFO - Bombing status - Target: +919065790822, Sent: 3, Success: 0, Failed: 3
+2025-04-16 11:06:20,920 - INFO - Bombing status - Target: +919065790822, Sent: 4, Success: 0, Failed: 4
+2025-04-16 11:06:23,047 - INFO - Bombing status - Target: +919065790822, Sent: 5, Success: 0, Failed: 5
+2025-04-16 11:06:23,048 - INFO - Bombing completed in 8.41 seconds
+2025-04-16 11:10:18,325 - INFO - Internet connection check successful
+2025-04-16 11:10:18,326 - INFO - Starting SMS Bomber
+2025-04-16 11:10:31,133 - INFO - Starting bombing with parameters - Target: +91965790822, Count: 10, Threads: 5, Delay: 10.0s
+2025-04-16 11:10:41,577 - INFO - Bombing status - Target: +91965790822, Sent: 1, Success: 0, Failed: 1
+2025-04-16 11:10:42,070 - INFO - Bombing status - Target: +91965790822, Sent: 2, Success: 0, Failed: 2
+2025-04-16 11:10:43,772 - INFO - Bombing status - Target: +91965790822, Sent: 3, Success: 0, Failed: 3
+2025-04-16 11:10:45,236 - INFO - Bombing status - Target: +91965790822, Sent: 4, Success: 0, Failed: 4
+2025-04-16 11:10:47,306 - INFO - Bombing status - Target: +91965790822, Sent: 5, Success: 0, Failed: 5
+2025-04-16 11:10:53,074 - INFO - Bombing status - Target: +91965790822, Sent: 6, Success: 0, Failed: 6
+2025-04-16 11:10:53,341 - INFO - Bombing status - Target: +91965790822, Sent: 7, Success: 1, Failed: 6
+2025-04-16 11:10:54,245 - INFO - Bombing status - Target: +91965790822, Sent: 8, Success: 1, Failed: 7
+2025-04-16 11:10:55,782 - INFO - Bombing status - Target: +91965790822, Sent: 9, Success: 1, Failed: 8
+2025-04-16 11:10:57,655 - INFO - Bombing status - Target: +91965790822, Sent: 10, Success: 1, Failed: 9
+2025-04-16 11:10:57,655 - INFO - Bombing completed in 26.52 seconds
+2025-04-16 11:11:23,205 - INFO - Internet connection check successful
+2025-04-16 11:11:23,206 - INFO - Starting WhatsApp Bomber
+2025-04-16 11:11:38,965 - INFO - Starting bombing with parameters - Target: +919065790822, Count: 10, Threads: 5, Delay: 1.0s
+2025-04-16 11:11:41,104 - INFO - Bombing status - Target: +919065790822, Sent: 1, Success: 0, Failed: 1
+2025-04-16 11:11:41,881 - INFO - Bombing status - Target: +919065790822, Sent: 2, Success: 0, Failed: 2
+2025-04-16 11:11:42,936 - INFO - Bombing status - Target: +919065790822, Sent: 3, Success: 0, Failed: 3
+2025-04-16 11:11:42,941 - INFO - Bombing status - Target: +919065790822, Sent: 4, Success: 0, Failed: 4
+2025-04-16 11:11:43,935 - ERROR - Error during bombing: release unlocked lock
+2025-04-16 11:11:43,939 - ERROR - Error during bombing: release unlocked lock
+2025-04-16 11:11:43,943 - ERROR - Error during bombing: release unlocked lock
+2025-04-16 11:11:43,946 - ERROR - Error during bombing: release unlocked lock
+2025-04-16 11:11:43,948 - ERROR - Error during bombing: release unlocked lock
+2025-04-16 11:11:43,953 - ERROR - Error during bombing: release unlocked lock
+2025-04-16 11:11:43,954 - INFO - Bombing completed in 4.99 seconds
+2025-04-16 11:16:41,305 - INFO - Internet connection check successful
+2025-04-16 11:16:41,306 - INFO - Starting SMS Bomber
+2025-04-16 11:16:52,074 - INFO - Starting bombing with parameters - Target: +919065790822, Count: 10, Threads: 5, Delay: 1.0s
