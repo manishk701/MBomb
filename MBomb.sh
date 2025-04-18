@@ -38,8 +38,8 @@ banner() {
         toilet -f mono12 -F border "Manish Kumar"
     fi
     echo -e "\e[1;34m For Any Queries Join Me!!!\e[0m"
-    echo -e "\e[1;32m           Telegram: https://t.me/MBombChat \e[0m"
-    echo -e "\e[4;32m   YouTube: https://www.youtube.com/c/ManishKumarTech \e[0m"
+    echo -e "\e[1;32m          Whatsapp no +91-8809377701 \e[0m"
+    echo -e "\e[4;32m   Telegram Id: +91-9065790822 \e[0m"
     echo " "
     echo "NOTE: Kindly move to the PIP version Of MBomb for more stability."
     echo " "
